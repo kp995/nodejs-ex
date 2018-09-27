@@ -1,4 +1,6 @@
 
+## This is a sample Nodejs Application which can be ran on Openshift Cluster!
+
 
 <!-- toc -->
 
